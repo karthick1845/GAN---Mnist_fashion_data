@@ -1,2 +1,5 @@
-# DressGAN
-Dress styles generation using GANs
+# Implementation of GAN in Mnist_fashion data
+
+
+
+
